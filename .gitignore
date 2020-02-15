@@ -4,4 +4,7 @@
 # dependencies
 /node_modules
 
+# coverage test
+#/__tests__/coverage
+
 
